@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  aravind:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-10-30T04:52:41.257855015Z"
+    description: A Helm chart for Kubernetes
+    digest: 944b7473adda8bbfe692423cd10dccaef5c02b249f9563ebe9e65d4d1448da6e
+    name: aravind
+    type: application
+    urls:
+    - aravind-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-10-30T04:52:41.257356102Z"
